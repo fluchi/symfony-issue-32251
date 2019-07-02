@@ -1,0 +1,3 @@
+index:
+   path: /
+   controller: App\Controller\Issue32251Controller::test
